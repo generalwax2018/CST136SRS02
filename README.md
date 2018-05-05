@@ -1,9 +1,18 @@
 # CST136SRS02
 Polynesian Polymorphism
 
-Name:
+Name: Michael Waxman
+
+
 
 ---
+NOTE: I used direction.h, gps.cpp and gps.h from a previous assignment to used for this one. 
+
+I ran out of time to connect the pieces together to make a boat. I was working on the .h
+files before the class files themselves because that was the easier piece to do first. 
+program is not complete tough was on the right direction. 
+
+
 
 Purpose:
 
